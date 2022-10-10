@@ -13,3 +13,12 @@ For example, to build the FCFS scheduler, enter
 make fcfs
 
 which builds the fcfs executable file.
+
+https://www.geeksforgeeks.org/queue-linked-list-implementation/
+
+
+we have memory leaks from our malloc!!!!
+    need to free up memory when we malloc 
+
+make sure we handle null pointers 
+    make sure the things we are accessing arent null

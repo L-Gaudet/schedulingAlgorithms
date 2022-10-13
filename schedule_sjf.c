@@ -4,7 +4,7 @@
 
 #include "schedulers.h"
 #include "list.h"
-#include "CPU.h"
+#include "cpu.h"
 
 /* Shortest Job First scheduler
  * Looks at the cpu burst time and

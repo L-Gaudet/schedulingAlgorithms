@@ -4,7 +4,7 @@
 
 #include "schedulers.h"
 #include "list.h"
-#include "CPU.h"
+#include "cpu.h"
 
 /* Priority scheduler
  * Looks at the priority number and

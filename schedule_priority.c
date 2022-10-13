@@ -39,7 +39,7 @@ void schedule() {
         }
 
         // run the highest priority job & remove from list
-        run(highestPriority, highestPriority->priority);
+        run(highestPriority, highestPriority->burst);
         delete(&head, highestPriority);
     }
 }

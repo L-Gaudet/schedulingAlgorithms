@@ -48,11 +48,11 @@ Running the program:
 
 Sample output:
 
-    Running task = [T8] [10] [25] for 10 units.
-    Running task = [T5] [5] [20] for 5 units.
-    Running task = [T4] [5] [15] for 5 units.
-    Running task = [T1] [4] [20] for 4 units.
-    Running task = [T7] [3] [30] for 3 units.
-    Running task = [T3] [3] [25] for 3 units.
-    Running task = [T2] [3] [25] for 3 units.
-    Running task = [T6] [1] [10] for 1 units.
+    Running task = [T8] [10] [25] for 25 units.
+    Running task = [T5] [5] [20] for 20 units.
+    Running task = [T4] [5] [15] for 15 units.
+    Running task = [T1] [4] [20] for 20 units.
+    Running task = [T7] [3] [30] for 30 units.
+    Running task = [T3] [3] [25] for 25 units.
+    Running task = [T2] [3] [25] for 25 units.
+    Running task = [T6] [1] [10] for 10 units.
